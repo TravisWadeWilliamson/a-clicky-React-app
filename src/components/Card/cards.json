@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "img": "./images/ahsoka-tano.png",
+        "isClicked": false
+    },
+    {
+        "id": 2,
+        "img": "./images/anakin-skywalker.png",
+        "isClicked": false
+    },
+    {
+        "id": 3,
+        "img": "./images/asajj-ventress.png",
+        "isClicked": false
+    },
+    {
+        "id": 4,
+        "img": "./images/battle-droid-1.png",
+        "isClicked": false
+    },
+    {
+        "id": 5,
+        "img": "./images/battle-droid.png",
+        "isClicked": false
+    },
+    {
+        "id": 6,
+        "img": "./images/captain-re.png",
+        "isClicked": false
+    },
+    {
+        "id": 7,
+        "img": "./images/captain-rex.png",
+        "isClicked": false
+    },
+    {
+        "id": 8,
+        "img": "./images/clone-trooper-1.png",
+        "isClicked": false
+    },
+    {
+        "id": 9,
+        "img": "./images/clone-trooper.png",
+        "isClicked": false
+    },
+    {
+        "id": 10,
+        "img": "./images/commander-cody.png",
+        "isClicked": false
+    },
+    {
+        "id": 11,
+        "img": "./images/general-grievous.png",
+        "isClicked": false
+    },
+    {
+        "id": 12,
+        "img": "./images/geonosian.png",
+        "isClicked": false
+    },
+    {
+        "id": 13,
+        "img": "./images/kaminoan.png",
+        "isClicked": false
+    },
+    {
+        "id": 14,
+        "img": "./images/obi-wan-kenobi.png",
+        "isClicked": false
+    },
+    {
+        "id": 15,
+        "img": "./images/republic-commando.png",
+        "isClicked": false
+    },
+    {
+        "id": 16,
+        "img": "./images/yoda.png",
+        "isClicked": false
+    }
+]
